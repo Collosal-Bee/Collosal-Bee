@@ -1,6 +1,6 @@
 # Hi there, I'm Light Adewale 👋
 
-**Data Scientist & Cloud Solutions Architect | Cloud Infrastructure (AWS) | Enterprise Systems (SAP)**
+**Data Scientist & Cloud Architect | AWS Serverless Infrastructure | SAP Enterprise Systems**
 
 I am a technical professional who transitioned from scientific research (Microbiology) to building highly scalable enterprise data and cloud architectures. Coming from a background of rigorous biological data compliance (GLP), I bring structured problem-solving to messy enterprise data. I specialize in architecting serverless applications, designing complex ETL pipelines, and optimizing business logic.
 
@@ -10,7 +10,7 @@ I am a technical professional who transitioned from scientific research (Microbi
 
 ### 🛠️ Core Tech Stack
 
-**Data, Math & Orchestration:**
+**Data & Orchestration:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
